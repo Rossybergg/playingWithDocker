@@ -1,0 +1,23 @@
+{
+  "name": "playingwithdocker",
+  "version": "1.0.0",
+  "description": "Simple Node app to try docker images",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rossybergg/playingWithDocker.git"
+  },
+  "author": "Ross Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rossybergg/playingWithDocker/issues"
+  },
+  "homepage": "https://github.com/Rossybergg/playingWithDocker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
